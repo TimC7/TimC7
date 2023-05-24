@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimC7
-- 🌱 I’m currently attending Cal State University San Bernardino in pursuit of a BA in Computer Science.
-- Right now, I am focusing on C# and the Unity engine, but I also have experience with C++, Java, and Python.
+- 🌱 I just recently graduated from Cal State San Bernardino with a degree in Computer Science!
+- I have a lot to learn still, but I'm looking forward to it!
 - 📫 Email: tjchester7@gmail.com
 
 <!---
